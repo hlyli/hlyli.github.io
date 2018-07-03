@@ -13,3 +13,11 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.banner{
+  background-color: #ffffff;
+  height: 100px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 100px;
+}
