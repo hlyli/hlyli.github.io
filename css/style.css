@@ -1,23 +1,24 @@
 .cont {
-  position: relative;
+    position: relative;
 }
+
 .centeredabs {
+    left: 50%;
     position: absolute;
     top: 50%;
-    left: 50%;
     transform: translate(-50%, -50%);
 }
 
-.centered{
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+.centered {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
 
-.banner{
-  background-color: #ffffff;
-  height: 100px;
-  text-align: center;
-  vertical-align: middle;
-  line-height: 100px;
+.banner {
+    background-color: #ffffff;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    vertical-align: middle;
 }
