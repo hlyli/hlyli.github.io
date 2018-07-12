@@ -28,8 +28,9 @@
     vertical-align: middle;
 }
 
-.centerimg {
+.linkicons {
     display: block;
+     height: 100px;
     left: 50%;
     margin-left: auto;
     margin-right: auto;
