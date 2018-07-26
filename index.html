@@ -12,9 +12,10 @@
     <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
     <!-- Compiled and minified JavaScript -->
-    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
     <!--Let browser know website is optimized for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
 </head>
 
 <body>
@@ -28,11 +29,15 @@
             </div>
         </nav>
     </div>
-    
+
     <div class="cont">
-        <img class="responsive-img z-depth-2 cont" src="image/bg.jpg">
-        <div class="centeredabs white-text">
-            <h1>HALEY LI</h1>
+        <div class="parallax-container">
+            <div class="parallax z-depth-2 "><img src="image/cb.jpg">
+            </div>
+            <div class="centeredabs white-text">
+                <h1>HALEY LI</h1>
+            </div>
+
         </div>
     </div>
 
@@ -104,9 +109,15 @@
     </footer>
 
     <!--JavaScript at end of body for optimized loading-->
-    <!-- <script type="text/javascript" src="js/materialize.min.js"></script>
-  <script src="js/materialize.js"></script>
-  <script src="js/init.js"></script> -->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="js/materialize.min.js"></script>
+
+    <script>
+        $(document).ready(function() {
+            $('.parallax').parallax();
+        });
+    </script>
+
 </body>
 
 </html>
