@@ -29,6 +29,10 @@
 }
 
 .linkicons {
-    display: block;
-    width:100%;
+    display: inline-block;
+    left: 50%;
+    padding-bottom: 10%;
+    position: relative;
+    transform: translateX(-50%);
+    width: 25%;
 }
