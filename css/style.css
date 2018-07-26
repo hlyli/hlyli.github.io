@@ -14,11 +14,15 @@
     transform: translate(-50%, -50%);
 }
 
-.centered {
+.centeredbl {
     left: 50%;
+    position: absolute;
+    text-align: center;
     top: 50%;
     transform: translate(-50%, -50%);
 }
+
+
 
 .banner {
     background-color: #ffffff;
@@ -35,4 +39,10 @@
     position: relative;
     transform: translateX(-50%);
     width: 25%;
+}
+
+.maillink{
+    display:block;
+    margin:auto;
+    text-align: center;
 }
