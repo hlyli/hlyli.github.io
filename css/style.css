@@ -75,10 +75,11 @@ body {
 .linkicons {
     display: inline-block;
     left: 50%;
-    padding-bottom: 10%;
     position: relative;
     transform: translateX(-50%);
     width: 25%;
+    border-radius: 50%;
+    transition: filter 0.1s linear;
 }
 
 .linkicons:hover {
