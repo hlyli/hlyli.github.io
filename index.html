@@ -5,28 +5,54 @@
     <title>hlyli</title>
     <link rel="shortcut icon" type="image/png" href="image/favicon.png">
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap" rel="stylesheet">   
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap" rel="stylesheet">
     <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 
 <body>
-    <div class="container">
+    <nav>
+        <input type="checkbox" id="check">
+        <label for="check" class="checkbtn">
+            < </label> <label class="logo">Haley Li
+        </label>
+        <ul>
+            <li><a href="https://github.com/hlyli">GitHub</a></li>
+            <li><a href="https://www.linkedin.com/in/haleyli12">LinkedIn</a></li>
+        </ul>
+    </nav>
+
+    <img class="background" src="image/cb_cropped.png">
+
+    <div class="main-text">
         <div class="text">
             <h1>About</h1>
             <p>
-                Hi, I'm a 4th year undergraduate Computer Science and Mathematics student at the University of British Columbia. I am currently working on researching new ways to improve datacenter scheduling using predicted VM lifetimes.
+                Hi, I'm a computer science graduate student (MSc) at the University of British Columbia. I am currently
+                working on maximizing revenue from spot instances in cloud systems through machine learning and
+                cooperative scheduling policies. I complated my undergrad in computer science and mathematics in 2021 at
+                the University of British Columbia.
             </p>
+            <div class="mail-link">
+                Mail: haleyli [at] cs.ubc.ca
+            </div>
             <h1>Work</h1>
             <h2>Systopia Lab</h2>
             <b>2020/05 -</b>
             <p>
-                At the <a href="https://systopia.cs.ubc.ca/">Systopia Lab</a>, I am working on datacenter scheduling. Using predicted VM lifetimes, we can determine when a VM is expected to depart, which we can use in making scheduling decisions. Previously, I had worked on improving scheduling performance on only VMs. Now I am working on reducing revenue loss from spot instance evictions.
+                At the <a href="https://systopia.cs.ubc.ca/">Systopia Lab</a>, I am working on datacenter scheduling.
+                Particularly, we are trying to improve revenue gain through increased spot instance (SI) utilisation. We
+                can achieve this through a cooperative framework that communicates SI preferences to the VM scheduler,
+                which allows us to improve SI scheduling with little to no cost to VM scheduling performance.
+                Additionally, we investigated more intelligent eviction policies using machine learning. With predicted
+                VM lifetimes, we can determine when a VM is expected to depart, which we can use in making scheduling
+                decisions.
             </p>
             <h2>Hypatia Systems</h2>
             <b>2019/01 - 2020/01</b>
             <p>
-                <a href="https://hypatiasys.com/">Hypatia Systems</a> is a startup company that aims to improve the accessibility of typesetting mathematics. During my time there, I worked on several projects:
+                <a href="https://hypatiasys.com/">Hypatia Systems</a> is a startup company that aims to improve the
+                accessibility of typesetting mathematics. During my time there, I worked on several projects:
                 <ul>
                     <li>UI redesign</li>
                     <li>Page breaking and line breaking algorithm</li>
@@ -35,17 +61,9 @@
                 </ul>
                 Nowadays, their app is used widely by millions of users.
             </p>
-            <h1>Contact and Links</h1>
-            <div class="links-buttons">
-                <a href="mailto:haley2153@hotmail.com" class="maillink">Email</a>
-                <a href="https://github.com/hlyli">GitHub</a>
-                <a href="https://www.linkedin.com/in/haleyli12/">LinkedIn</a>
-            </div>
         </div>
     </div>
-    <header>
-        <h1>haley li</h1>
-    </header>
 
 </body>
+
 </html>
