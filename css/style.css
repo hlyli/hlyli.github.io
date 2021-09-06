@@ -24,6 +24,8 @@ body {
 
 .background {
     width: 100vw;
+    max-height: 60vh;
+    object-fit: cover;
 }
 
 .main-text {
