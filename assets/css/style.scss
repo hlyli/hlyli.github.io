@@ -5,4 +5,10 @@
     animation: none;
 }
 
+.card-columns>.fadeIn.animated{
+    animation:none;
+    animation-delay: 0ms;
+    visibility: visible;
+}
+
 @import "portfolYOU";
