@@ -4,7 +4,7 @@ description         : >-
                       <h1>Haley Li</h1>
                       <p>M.Sc student at UBC</p>
                       <p>Machine learning and systems</p>
-                      <p> Contact: haleyli [at] cs.ubc.ca </p>
+                      <p> Contact: hly_li [at] outlook.com </p>
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : hlyli/hlyli.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
