@@ -9,7 +9,7 @@ weight: 3
 
 Hi I am **{{ site.author.name }}** <br>
 
-I am a M.Sc student studying computer science at the University of British Columbia. Particularly, my interests are machine learning and systems. I currently work on load balancing and scheduling using reinforcement learning algorithms in serverless and search engines. My M.Sc supervisors are [Mathias Lécuyer](http://mathias.lecuyer.me/) and [Thomas Pasquier](https://tfjmp.org/).
+I am a M.Sc. computer science graduate from the University of British Columbia. Particularly, my interests are machine learning and systems. I worked on load balancing and scheduling using reinforcement learning algorithms in serverless and search engines. 
 
 
 <!-- <div class="row">
@@ -25,6 +25,6 @@ I am a M.Sc student studying computer science at the University of British Colum
 
 # **Education**
 
-* M.Sc Computer Science - University of British Columbia (2021 -)
+* M.Sc Computer Science - University of British Columbia (2021 - 2024)
     * Machine learning and systems
 * B.Sc Computer Science and Mathematics - University of British Columbia (2016 - 2021)
