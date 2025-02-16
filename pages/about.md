@@ -9,7 +9,7 @@ weight: 3
 
 Hi I am **{{ site.author.name }}** <br>
 
-I am a M.Sc. computer science graduate from the University of British Columbia. Particularly, my interests are machine learning and systems. I worked on load balancing and scheduling using reinforcement learning algorithms in serverless and search engines. 
+I am a M.Sc. computer science graduate from the University of British Columbia. Particularly, my interests are machine learning and systems. I worked on load balancing and scheduling using reinforcement learning algorithms in serverless and search engines. I currently work on machine learning serving optimization.
 
 
 <!-- <div class="row">

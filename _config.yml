@@ -2,8 +2,7 @@
 title               : hlyli
 description         : >-
                       <h1>Haley Li</h1>
-                      <p>M.Sc student at UBC</p>
-                      <p>Machine learning and systems</p>
+                      <p>ML Research Engineer</p>
                       <p> Contact: hly_li [at] outlook.com </p>
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : hlyli/hlyli.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -37,7 +36,7 @@ author:
   # gitlab            : your_username
   # instagram         : your_username
   # kaggle            : your_username
-  linkedin          : haleyli12
+  linkedin          : hlyli
   # medium            : your_username
   # soundcloud        : your_username
   # spotify           : your_username
