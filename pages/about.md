@@ -9,13 +9,8 @@ weight: 3
 
 Hi I am **{{ site.author.name }}** <br>
 
-I am a M.Sc. computer science graduate from the University of British Columbia. Particularly, my interests are machine learning and systems. I worked on load balancing and scheduling using reinforcement learning algorithms in serverless and search engines. I currently work on machine learning serving optimization.
+I currently work on large language model inference optimization at Huawei Canada. Previously, I completed my M.Sc in computer science at the University of British Columbia applying reinforcement learning to load balancing and scheduling for serverless and search engines. 
 
-
-<!-- <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div> -->
 
 # **Experience**
 
@@ -25,6 +20,6 @@ I am a M.Sc. computer science graduate from the University of British Columbia. 
 
 # **Education**
 
-* M.Sc Computer Science - University of British Columbia (2021 - 2024)
-    * Machine learning and systems
-* B.Sc Computer Science and Mathematics - University of British Columbia (2016 - 2021)
+<div class="row">
+{% include about/education.html %}
+</div>
