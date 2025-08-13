@@ -12,7 +12,7 @@ weight: 1
 # Conferences
 
 ## 2022
-- XDSTeam @ Huawei. 2025. xDeepServe: Model-as-a-Service on Huawei CloudMatrix384. arXiv. [[PDF]](https://arxiv.org/abs/2508.02520)
+- XDS Team @ Huawei. 2025. xDeepServe: Model-as-a-Service on Huawei CloudMatrix384. arXiv. [[PDF]](https://arxiv.org/abs/2508.02520)
 - Rindranirina Ramamonjison, **Haley Li**, Timothy T. Yu, Shiqi He, Vishnu Rengan, Amin Banitalebi-Dehkordi, Zirui Zhou, and Yong Zhang. 2022. Augmenting Operations Research with Auto-Formulation of Optimization Models from Problem Descriptions. *Proceedings of EMNLP 2022 Industry Track*. [[PDF]](https://aclanthology.org/2022.emnlp-industry.4.pdf)
 -  Syed M. Iqbal, **Haley Li**, Shane Bergsma, Ivan Beschastnikh, Alan J. Hu. 2022. CoSpot: A Cooperative VM Allocation Framework for Increased Revenue from Spot Instances. *SoCC '22: Proceedings of the 13th Symposium on Cloud Computing*. [[PDF]](https://dl.acm.org/doi/10.1145/3542929.3563499)
 
