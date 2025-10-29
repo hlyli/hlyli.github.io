@@ -10,7 +10,7 @@ weight: 1
 </pre>
 
 # Publications
-
+- Gursimran Singh, Timothy Yu, **Haley Li**, Cheng Chen, Hanieh Sadri, Qintao Zhang, Yu Zhang, Ying Xiong, Yong Zhang, and Zhenan Fan. arXiv. [[PDF]](https://www.arxiv.org/abs/2510.02613)
 - XDS Team @ Huawei. 2025. xDeepServe: Model-as-a-Service on Huawei CloudMatrix384. arXiv. [[PDF]](https://arxiv.org/abs/2508.02520)
 - Rindranirina Ramamonjison, **Haley Li**, Timothy T. Yu, Shiqi He, Vishnu Rengan, Amin Banitalebi-Dehkordi, Zirui Zhou, and Yong Zhang. 2022. Augmenting Operations Research with Auto-Formulation of Optimization Models from Problem Descriptions. *Proceedings of EMNLP 2022 Industry Track*. [[PDF]](https://aclanthology.org/2022.emnlp-industry.4.pdf)
 - Rindranirina Ramamonjison, Timothy T. Yu, Raymond Li, **Haley Li**, Giuseppe Carenini, Bissan Ghaddar, Shiqi He, Mahdi Mostajabdaveh, Amin Banitalebi-Dehkordi, Zirui Zhou, and Yong Zhang. 2023. NL4Opt Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions. *Proceedings of the NeurIPS 2022 Competitions Track*. [[PDF]](https://proceedings.mlr.press/v220/ramamonjison23a/ramamonjison23a.pdf)
