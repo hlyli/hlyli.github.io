@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Haley Li",
-  title: "Senior Research Engineer",
+  title: "Research Engineer",
   description: "Haley Li",
   accentColor: "#2196f3",
   social: {
@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/hlyli",
   },
   aboutMe:
-    "I am a senior research engineer at Huawei Canada's Intelligent Cloud Infrastructure Lab. My current focus is on LLM inference optimization and asynchronous RL fine-tuning for large-scale MoE models. I previously completed my M.Sc in computer science at the University of British Columbia, where I applied reinforcement learning techniques to load balancing and scheduling for serverless and search engines.",
+    "I am a research engineer at Huawei Canada's Intelligent Cloud Infrastructure Lab. My current focus is on LLM inference optimization and asynchronous RL fine-tuning for large-scale MoE models. I previously completed my M.Sc in computer science at the University of British Columbia, where I applied reinforcement learning techniques to load balancing and scheduling for serverless and search engines.",
   skills: ["Python", "Java", "JavaScript", "TypeScript", "PyTorch", "Git", "Machine Learning", "Reinforcement Learning", "vLLM", "AReaL", "Ray", "Docker", "Kubernetes"],
   patents: [
     {
@@ -54,7 +54,7 @@ export const siteConfig = {
   experience: [
     {
       company: "Huawei Canada",
-      title: "Senior Research Engineer",
+      title: "Research Engineer",
       dateRange: "Feb 2025 - Present",
       bullets: [
         "Intelligent Cloud Infrastructure Lab",
